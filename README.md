@@ -7,37 +7,45 @@ This repository contains my end-to-end assignments covering theoretical statisti
 ## 📂 Repository Contents
 
 ### 1. 📈 Statistics & Probability Foundations
-- **[Set 1: Descriptive Statistics & Probability](./01-Statistics-and-Probability/Set-1_Descriptive_Statistics_and_Probability.docx)**  
-  *Topics:* Measures of Central Tendency (Mean, Standard Deviation, Variance), Box-Plots, IQR, Histograms, Skewness, and Basic Probability.
-- **[Set 2: Normal Distribution & Random Variables](./01-Statistics-and-Probability/Set-2_Normal_Distribution.docx)**  
-  *Topics:* Z-scores, Normal Distribution, Continuous Variables, and Probability Calculations.
-- **[Set 3: Confidence Intervals](./01-Statistics-and-Probability/Set-3_Confidence_Intervals.docx)**  
-  *Topics:* Margin of Error, Z-intervals vs. T-intervals, and Sample Size Estimation.
-- **[Set 4: Sampling Distributions & CLT](./01-Statistics-and-Probability/Set-4_Sampling_Distributions_CLT.docx)**  
-  *Topics:* Central Limit Theorem, Standard Error, and Sampling Variations.
+- **[Set 1: Descriptive Statistics & Probability](./Set+1_Descriptive+statistics+Probability+(2).docx)**
+- **[Set 2: Normal Distribution & Random Variables](./Set+2_Normal+Distribution+Functions+of+random+variables+(1).docx)**
+- **[Set 3: Confidence Intervals](./Set+3.doc)**
+- **[Set 4: Sampling Distributions & CLT](./Set+4.docx)**
 
 ---
 
 ### 2. 🧪 Statistical Inference & Regression
-- **[Hypothesis Testing](./02-Hypothesis-Testing/)**: A/B testing, 2-tail tests, and significance analysis.
-- **[Regression Analysis](./03-Regression-Analysis/)**: Simple Linear, Multiple Linear, and Logistic Regression models.
+- **[Hypothesis Testing](./A3%20Hypothesis.ipynb)**
+- **[Simple Regression](./A4%20Simple%20Regression.ipynb)**
+- **[Multilinear Regression 1](./A5%20Multilinear%20regression%202.ipynb)**
+- **[Multilinear Regression 2](./A5%20Multiple%20Regression.ipynb)**
+- **[Logistic Regression](./logistic%20regression.ipynb)**
 
 ---
 
 ### 3. 🤖 Machine Learning Algorithms
-- **[Classification Models](./04-Classification-Models/)**: KNN, Naïve Bayes, Decision Trees, Random Forests, and Support Vector Machines (SVM).
-- **[Unsupervised Learning](./05-Clustering-Unsupervised/)**: K-Means Clustering, Hierarchical Clustering, Principal Component Analysis (PCA), and Association Rules.
-- **[Time-Series & Forecasting](./06-Time-Series-Forecasting/)**: ARIMA / Exponential Smoothing forecasting workflows.
+- **[K-Nearest Neighbors (KNN)](./KNN.ipynb)**
+- **[Naïve Bayes](./Naive%20bayes.ipynb)**
+- **[Decision Tree](./Decision%20Tree.ipynb)**
+- **[Random Forest](./Random%20Forest.ipynb)**
+- **[Support Vector Machines (SVM)](./SVM.ipynb)**
+- **[Association Rules](./AssociationRules.ipynb)**
+- **[Clustering (Crime Data)](./clustering%20crime%20data.ipynb)**
+- **[Clustering (General)](./clustering.ipynb)**
+- **[Principal Component Analysis (PCA)](./PCA.ipynb)**
+- **[Time-Series Forecasting](./Forecasting.ipynb)**
 
 ---
 
 ### 4. 🔤 Natural Language Processing & Deep Learning
-- **[NLP & Text Mining](./07-NLP-and-Text-Mining/)**: Sentiment analysis, emotion extraction, and text processing.
-- **[Deep Learning & Systems](./08-Deep-Learning-and-Systems/)**: Neural Networks and Recommendation Systems.
+- **[Text Emotion Analysis](./text%20emotion.ipynb)**
+- **[Text Mining & Sentiment Analysis](./Text%20mining%20sentimental%20analysis.ipynb)**
+- **[Neural Networks](./neural%20network.ipynb)**
+- **[Recommendation System](./Reccomendation%20system.ipynb)**
 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Languages:** Python, SQL
-- **Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, NLTK, TensorFlow/PyTorch
+- **Languages:** Python
+- **Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, NLTK
 - **Documentation:** Jupyter Notebooks, Microsoft Word
